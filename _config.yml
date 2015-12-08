@@ -1,0 +1,28 @@
+name: reallysocial
+favicon: null
+layout_spectrum: 0.6098059886135161
+typography_spectrum: 0.07193854940123856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5456734020262957
+  lightness: 0.0398450696375221
+  saturation: 0.16122681414708495
+  rhythmicContrast: 0.06394025054760277
+purpose: []
